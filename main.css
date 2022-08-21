@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72);
+    font-family: Poppins;
+    
+}
+h1  {
+    color: #FF9F29;
+    text-align: center;
+}
+.temp {
+    color:#277BC0;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: #fff;
+    height: 20rem;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    width: 25%;
+    border: 3px salmon solid;
+    margin: auto;
+}
+
